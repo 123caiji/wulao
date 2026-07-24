@@ -2,12 +2,14 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_22afee47870a11f1a68c525400826444
-    ReservedCode1: JAhebchqLRoqXHfhvH+mv7uIMWmcKvtl8HRfubP/zAyZWGl2j/Bpbh19HIr55KgX/R060Nly/pHUeZHnwqNHSizMN2DTpLJXgYuc43pCqFzqtKGTmsWqWtfvTYG1tuMt4DL+4F4kj4OZ6KiG32w/UsVKqNFzPKI8EkQJXIEMD70dD3HCmT4QSJ8a1zE=
+    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_450d1a79872311f1a68c525400826444
+    ReservedCode1: rPBoBFc7Fbgkjgxi9yQHihD8YUTe7ljzVDsfsNXs6egcLbb+EH9AE0Zr/BEXGoXtUQpVTiEL1aZTp+bagn8NKcBph0ksYJBymxTVy+8bSEsXukkIWdW97/HD9QoFmG7I82rWrCa75s9/VKFfIiD6qH7+NUV8GHCr20Bo27x4SbfdFfj72vRVAg9I5D4=
     ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_22afee47870a11f1a68c525400826444
-    ReservedCode2: JAhebchqLRoqXHfhvH+mv7uIMWmcKvtl8HRfubP/zAyZWGl2j/Bpbh19HIr55KgX/R060Nly/pHUeZHnwqNHSizMN2DTpLJXgYuc43pCqFzqtKGTmsWqWtfvTYG1tuMt4DL+4F4kj4OZ6KiG32w/UsVKqNFzPKI8EkQJXIEMD70dD3HCmT4QSJ8a1zE=
+    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_450d1a79872311f1a68c525400826444
+    ReservedCode2: rPBoBFc7Fbgkjgxi9yQHihD8YUTe7ljzVDsfsNXs6egcLbb+EH9AE0Zr/BEXGoXtUQpVTiEL1aZTp+bagn8NKcBph0ksYJBymxTVy+8bSEsXukkIWdW97/HD9QoFmG7I82rWrCa75s9/VKFfIiD6qH7+NUV8GHCr20Bo27x4SbfdFfj72vRVAg9I5D4=
 ---
+
+
 
 # 《Machine Learning Yearning》深度总结
 
@@ -836,4 +838,5 @@ MLY 全章知识树
 ---
 
 **全书总结**：《Machine Learning Yearning》是吴恩达将自己在Google Brain和百度硅谷AI实验室领导AI项目时的实战经验系统化而成的"ML项目操作手册"。全书核心不是算法细节，而是**决策方法论**——当面对一个有缺陷的ML系统时，如何判断应该投入精力的方向。其提出的"可避免偏差"、"训练-开发集"、"数据不匹配"等概念如今已成为ML工程领域的标准术语。
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*

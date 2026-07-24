@@ -2,12 +2,14 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_e2b3cd29871b11f1b66e525400e6dd8f
-    ReservedCode1: gv3XmD2ppuKBp5uWR3e9UYl8ytkooi04OEZ1CJ/zpTq8FtPjjk889wwbuGF+G+741/TNat2I4HGpdHrcvk0wecf2/YOGz7LPMlecpCjUNYdmIyzWeuG433umIuMDqCDOFNMrfpHU8yuabcckAufIs6F8shUX27XMoSmhSvkVzUUxIzHWa0uLFLbaLiQ=
+    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_465ea988872311f1a68c525400826444
+    ReservedCode1: 6MBWAG7lV6USMOJg54PsHc21Igbbq3XTnYPjKH+FadyTbr/BAXcqLFUw7JhohgMH6VvzNOEhs7iSARy0pRV/vrRfXtVAOfBW6lf/6IdFiDyglFHB+QxQnySn2Rg0+47G751QJt6axMcaEtC8PLxSnBvJzH4Mss/aAXAf6NbJXCU/MGLlgi0UbJ8Ovw0=
     ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_e2b3cd29871b11f1b66e525400e6dd8f
-    ReservedCode2: gv3XmD2ppuKBp5uWR3e9UYl8ytkooi04OEZ1CJ/zpTq8FtPjjk889wwbuGF+G+741/TNat2I4HGpdHrcvk0wecf2/YOGz7LPMlecpCjUNYdmIyzWeuG433umIuMDqCDOFNMrfpHU8yuabcckAufIs6F8shUX27XMoSmhSvkVzUUxIzHWa0uLFLbaLiQ=
+    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_465ea988872311f1a68c525400826444
+    ReservedCode2: 6MBWAG7lV6USMOJg54PsHc21Igbbq3XTnYPjKH+FadyTbr/BAXcqLFUw7JhohgMH6VvzNOEhs7iSARy0pRV/vrRfXtVAOfBW6lf/6IdFiDyglFHB+QxQnySn2Rg0+47G751QJt6axMcaEtC8PLxSnBvJzH4Mss/aAXAf6NbJXCU/MGLlgi0UbJ8Ovw0=
 ---
+
+
 
 # 《Machine Learning Yearning》终极验证版
 
@@ -247,4 +249,5 @@ graph TD
 ### 架构决策
 - [ ] 评估是否使用端到端 vs 流水线（Ch47-51）
 - [ ] 对流水线进行逐组件误差归因（Ch54-57）
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*

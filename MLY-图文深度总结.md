@@ -2,12 +2,14 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_d7a941cc870e11f1a68c525400826444
-    ReservedCode1: HXPYMetIvTrKlCHoXSfGoCKXHXzNu/1HIEezGXF33iFM6CBuxQ0E7y3D436Flc7NAYtdYu+WOl0DMufrqbjS6mEHN2U+AVD+BUNOqeN270yX4FrJe3EimUTSucx5pkXoEWIdL8MvHAV+e8KXtLPAjLo9cx0y2UUTJLxQm3oMH1opOp3vSOM1rSRSgHU=
+    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_45b7f3d0872311f1b66e525400e6dd8f
+    ReservedCode1: FdohW//k/C/Cz6ZF0FBzk1URRzbLkfx7Gf5kmjq3AUWMIzO0ykki4AggmlIu0P5rtqpiY5AYP7+NWLSmZoyBb0hDCPvldy/tls7J6kAINAfsjNkCwjHmBFWbnLpa/FFgXaDd/zofsEfNqjeg97RnTNOQ7GNXwkKcrbd6BoYzgutQovgCPAw2ZGD7qgg=
     ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_d7a941cc870e11f1a68c525400826444
-    ReservedCode2: HXPYMetIvTrKlCHoXSfGoCKXHXzNu/1HIEezGXF33iFM6CBuxQ0E7y3D436Flc7NAYtdYu+WOl0DMufrqbjS6mEHN2U+AVD+BUNOqeN270yX4FrJe3EimUTSucx5pkXoEWIdL8MvHAV+e8KXtLPAjLo9cx0y2UUTJLxQm3oMH1opOp3vSOM1rSRSgHU=
+    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_45b7f3d0872311f1b66e525400e6dd8f
+    ReservedCode2: FdohW//k/C/Cz6ZF0FBzk1URRzbLkfx7Gf5kmjq3AUWMIzO0ykki4AggmlIu0P5rtqpiY5AYP7+NWLSmZoyBb0hDCPvldy/tls7J6kAINAfsjNkCwjHmBFWbnLpa/FFgXaDd/zofsEfNqjeg97RnTNOQ7GNXwkKcrbd6BoYzgutQovgCPAw2ZGD7qgg=
 ---
+
+
 
 # 《Machine Learning Yearning》吴恩达 — 图文深度总结
 
@@ -624,4 +626,5 @@ gantt
 ---
 
 *生成时间: 2026-07-24 | 原书112页58章全量覆盖 | Mermaid图表 18 个 | 表格 10 张 | 公式 3 个*
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
