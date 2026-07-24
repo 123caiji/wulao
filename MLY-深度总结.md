@@ -1,16 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_450d1a79872311f1a68c525400826444
-    ReservedCode1: rPBoBFc7Fbgkjgxi9yQHihD8YUTe7ljzVDsfsNXs6egcLbb+EH9AE0Zr/BEXGoXtUQpVTiEL1aZTp+bagn8NKcBph0ksYJBymxTVy+8bSEsXukkIWdW97/HD9QoFmG7I82rWrCa75s9/VKFfIiD6qH7+NUV8GHCr20Bo27x4SbfdFfj72vRVAg9I5D4=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_450d1a79872311f1a68c525400826444
-    ReservedCode2: rPBoBFc7Fbgkjgxi9yQHihD8YUTe7ljzVDsfsNXs6egcLbb+EH9AE0Zr/BEXGoXtUQpVTiEL1aZTp+bagn8NKcBph0ksYJBymxTVy+8bSEsXukkIWdW97/HD9QoFmG7I82rWrCa75s9/VKFfIiD6qH7+NUV8GHCr20Bo27x4SbfdFfj72vRVAg9I5D4=
----
-
-
-
 # 《Machine Learning Yearning》深度总结
 
 > **原书信息**：吴恩达（Andrew Ng）著，中文版。全书共58章，从误差分析到端到端深度学习，系统讲解如何迭代改进机器学习系统。

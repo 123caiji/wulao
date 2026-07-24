@@ -1,16 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_45b7f3d0872311f1b66e525400e6dd8f
-    ReservedCode1: FdohW//k/C/Cz6ZF0FBzk1URRzbLkfx7Gf5kmjq3AUWMIzO0ykki4AggmlIu0P5rtqpiY5AYP7+NWLSmZoyBb0hDCPvldy/tls7J6kAINAfsjNkCwjHmBFWbnLpa/FFgXaDd/zofsEfNqjeg97RnTNOQ7GNXwkKcrbd6BoYzgutQovgCPAw2ZGD7qgg=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 8c3604d9fe5e7b9f6c4d7822c6ca07bd_45b7f3d0872311f1b66e525400e6dd8f
-    ReservedCode2: FdohW//k/C/Cz6ZF0FBzk1URRzbLkfx7Gf5kmjq3AUWMIzO0ykki4AggmlIu0P5rtqpiY5AYP7+NWLSmZoyBb0hDCPvldy/tls7J6kAINAfsjNkCwjHmBFWbnLpa/FFgXaDd/zofsEfNqjeg97RnTNOQ7GNXwkKcrbd6BoYzgutQovgCPAw2ZGD7qgg=
----
-
-
-
 # 《Machine Learning Yearning》吴恩达 — 图文深度总结
 
 > **原书**: Andrew Ng, *Machine Learning Yearning*, 中文版 (MLY-zh-cn.pdf, 112页, 58章)
