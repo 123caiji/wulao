@@ -15,7 +15,7 @@ AIGC:
 
 > **原书**：Andrew Ng, "Machine Learning Yearning", Draft v0.5.0 (2018/10/31), 58章
 > **验证来源**：[Niklas Donges·TowardsDataScience六大概念提炼](https://towardsdatascience.com/6-concepts-of-andrew-ngs-book-machine-learning-yearning-abaf510579d4)、[Data-Centric AI·Landing.AI](https://landing.ai/data-centric-ai/)、[Goodreads 4.3/5](https://forage.com/book/914913)
-> **核心定位**：不是算法教材，是**ML项目决策方法论**——"大多数AI课程教你算法如何工作，这本书教你如何实际使用它们"（原书前言）
+> **核心定位**：不是算法教材，是**ML项目决策方法论**——"大多数AI课程教你算法如何工作，这本书教我如何实际使用它们"（原书前言）
 
 ---
 
